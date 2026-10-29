@@ -1,0 +1,214 @@
+{
+  "shainIchiran": [
+    {
+      "bangou": 1,
+      "sei": "佐藤",
+      "mei": "美咲",
+      "busho": "営業部",
+      "denwaBangou": "03-6812-4101"
+    },
+    {
+      "bangou": 2,
+      "sei": "鈴木",
+      "mei": "大翔",
+      "busho": "開発部",
+      "denwaBangou": "03-6812-4102"
+    },
+    {
+      "bangou": 3,
+      "sei": "高橋",
+      "mei": "結衣",
+      "busho": "人事部",
+      "denwaBangou": "03-6812-4103"
+    },
+    {
+      "bangou": 4,
+      "sei": "田中",
+      "mei": "蓮",
+      "busho": "総務部",
+      "denwaBangou": "03-6812-4104"
+    },
+    {
+      "bangou": 5,
+      "sei": "伊藤",
+      "mei": "陽菜",
+      "busho": "経理部",
+      "denwaBangou": "03-6812-4105"
+    },
+    {
+      "bangou": 6,
+      "sei": "渡辺",
+      "mei": "湊",
+      "busho": "開発部",
+      "denwaBangou": "03-6812-4106"
+    },
+    {
+      "bangou": 7,
+      "sei": "山本",
+      "mei": "凛",
+      "busho": "営業部",
+      "denwaBangou": "03-6812-4107"
+    },
+    {
+      "bangou": 8,
+      "sei": "中村",
+      "mei": "悠真",
+      "busho": "企画部",
+      "denwaBangou": "03-6812-4108"
+    },
+    {
+      "bangou": 9,
+      "sei": "小林",
+      "mei": "葵",
+      "busho": "人事部",
+      "denwaBangou": "03-6812-4109"
+    },
+    {
+      "bangou": 10,
+      "sei": "加藤",
+      "mei": "颯太",
+      "busho": "開発部",
+      "denwaBangou": "03-6812-4110"
+    },
+    {
+      "bangou": 11,
+      "sei": "吉田",
+      "mei": "陽葵",
+      "busho": "総務部",
+      "denwaBangou": "03-6812-4111"
+    },
+    {
+      "bangou": 12,
+      "sei": "山田",
+      "mei": "樹",
+      "busho": "営業部",
+      "denwaBangou": "03-6812-4112"
+    },
+    {
+      "bangou": 13,
+      "sei": "佐々木",
+      "mei": "紬",
+      "busho": "経理部",
+      "denwaBangou": "03-6812-4113"
+    },
+    {
+      "bangou": 14,
+      "sei": "山口",
+      "mei": "大和",
+      "busho": "開発部",
+      "denwaBangou": "03-6812-4114"
+    },
+    {
+      "bangou": 15,
+      "sei": "松本",
+      "mei": "莉子",
+      "busho": "企画部",
+      "denwaBangou": "03-6812-4115"
+    },
+    {
+      "bangou": 16,
+      "sei": "井上",
+      "mei": "朝陽",
+      "busho": "営業部",
+      "denwaBangou": "03-6812-4116"
+    },
+    {
+      "bangou": 17,
+      "sei": "木村",
+      "mei": "芽依",
+      "busho": "人事部",
+      "denwaBangou": "03-6812-4117"
+    },
+    {
+      "bangou": 18,
+      "sei": "林",
+      "mei": "律",
+      "busho": "総務部",
+      "denwaBangou": "03-6812-4118"
+    },
+    {
+      "bangou": 19,
+      "sei": "清水",
+      "mei": "咲良",
+      "busho": "開発部",
+      "denwaBangou": "03-6812-4119"
+    },
+    {
+      "bangou": 20,
+      "sei": "森",
+      "mei": "蒼",
+      "busho": "経理部",
+      "denwaBangou": "03-6812-4120"
+    },
+    {
+      "bangou": 21,
+      "sei": "池田",
+      "mei": "心春",
+      "busho": "営業部",
+      "denwaBangou": "03-6812-4121"
+    },
+    {
+      "bangou": 22,
+      "sei": "橋本",
+      "mei": "陽翔",
+      "busho": "企画部",
+      "denwaBangou": "03-6812-4122"
+    },
+    {
+      "bangou": 23,
+      "sei": "阿部",
+      "mei": "彩葉",
+      "busho": "開発部",
+      "denwaBangou": "03-6812-4123"
+    },
+    {
+      "bangou": 24,
+      "sei": "石川",
+      "mei": "悠斗",
+      "busho": "総務部",
+      "denwaBangou": "03-6812-4124"
+    },
+    {
+      "bangou": 25,
+      "sei": "山崎",
+      "mei": "美月",
+      "busho": "人事部",
+      "denwaBangou": "03-6812-4125"
+    },
+    {
+      "bangou": 26,
+      "sei": "中島",
+      "mei": "蒼空",
+      "busho": "営業部",
+      "denwaBangou": "03-6812-4126"
+    },
+    {
+      "bangou": 27,
+      "sei": "前田",
+      "mei": "琴音",
+      "busho": "経理部",
+      "denwaBangou": "03-6812-4127"
+    },
+    {
+      "bangou": 28,
+      "sei": "藤田",
+      "mei": "新",
+      "busho": "開発部",
+      "denwaBangou": "03-6812-4128"
+    },
+    {
+      "bangou": 29,
+      "sei": "小川",
+      "mei": "詩",
+      "busho": "企画部",
+      "denwaBangou": "03-6812-4129"
+    },
+    {
+      "bangou": 30,
+      "sei": "岡田",
+      "mei": "晴",
+      "busho": "総務部",
+      "denwaBangou": "03-6812-4130"
+    }
+  ]
+}
